@@ -16,23 +16,18 @@ Key Features
 - **Engaging Storyline:** A narrative-driven experience that unfolds through cinematic cutscenes and in-game events.
 - **Nostalgic Soundtrack:** An original score inspired by the sound design of 90s console classics.
 
-Getting Started
+Building
 ---------------
 
-1. **Clone the repository:**
+1. **Clone the repository and enter it:**
 
    .. code-block:: bash
 
-      git clone https://github.com/groxable/ShadowOfDawn.git
+      git clone https://github.com/groxable/ShadowOfDawn.git && cd ShadowOfDawn
 
-2. **Navigate to the project directory:**
+2. **Build and run the game:**  
 
-   .. code-block:: bash
-
-      cd ShadowOfDawn
-
-3. **Build and run the game:**  
-   Follow the instructions provided in the INSTALL file for detailed steps on building and running the project.
+   *soon...*
 
 Contributing
 ------------
